@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/CouponProto_index.html"
+status = 200
